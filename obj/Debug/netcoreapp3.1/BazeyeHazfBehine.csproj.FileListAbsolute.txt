@@ -1,0 +1,14 @@
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\bin\Debug\netcoreapp3.1\BazeyeHazfBehine.exe
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\bin\Debug\netcoreapp3.1\BazeyeHazfBehine.deps.json
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\bin\Debug\netcoreapp3.1\BazeyeHazfBehine.runtimeconfig.json
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\bin\Debug\netcoreapp3.1\BazeyeHazfBehine.runtimeconfig.dev.json
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\bin\Debug\netcoreapp3.1\BazeyeHazfBehine.dll
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\bin\Debug\netcoreapp3.1\BazeyeHazfBehine.pdb
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\obj\Debug\netcoreapp3.1\BazeyeHazfBehine.csproj.AssemblyReference.cache
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\obj\Debug\netcoreapp3.1\BazeyeHazfBehine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\obj\Debug\netcoreapp3.1\BazeyeHazfBehine.AssemblyInfoInputs.cache
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\obj\Debug\netcoreapp3.1\BazeyeHazfBehine.AssemblyInfo.cs
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\obj\Debug\netcoreapp3.1\BazeyeHazfBehine.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\obj\Debug\netcoreapp3.1\BazeyeHazfBehine.dll
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\obj\Debug\netcoreapp3.1\BazeyeHazfBehine.pdb
+C:\Users\Lion\Desktop\csharp\BazeyeHazfBehine\obj\Debug\netcoreapp3.1\BazeyeHazfBehine.genruntimeconfig.cache
