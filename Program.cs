@@ -29,7 +29,7 @@ namespace BazeyeHazfBehine
             {
                 
             }
-            lstyekTaSad.Find(a=> lstYadaki.Contains(a) == false)
+            lstyekTaSad.Find(a=> lstYadaki.Contains(a) == false);
         }
     }
 }
